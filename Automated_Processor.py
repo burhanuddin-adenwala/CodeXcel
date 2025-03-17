@@ -117,7 +117,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<h1 class="stTitle">🚀 CodeXcel - Automated Coding File Processor</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="stTitle"> CodeXcel - EU Omni Translater & Processor</h1>', unsafe_allow_html=True)
 st.markdown("### Upload your Excel file to get started:")
 
 uploaded_file = st.file_uploader("Upload an Excel file (.xlsx)", type=["xlsx"])
